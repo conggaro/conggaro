@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg">
+<img align="left" width="370" src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg">
 <h1 align="center">Hi there 👋, I'm Chi Cong</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
@@ -10,8 +10,6 @@
 <br />
 
 ## 📫 How to reach me:
-
-<!-- [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ch%C3%AD-c%C3%B4ng-nguy%E1%BB%85n-731266278/" target="_blank">
