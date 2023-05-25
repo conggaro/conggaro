@@ -6,6 +6,7 @@
 
 
        - ✍ I'm a programmer.
+       - ✍ I'm Vietnamese.
 
 <br />
 
