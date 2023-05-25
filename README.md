@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg">
 <h1 align="center">Hi there 👋, I'm Chi Cong</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
